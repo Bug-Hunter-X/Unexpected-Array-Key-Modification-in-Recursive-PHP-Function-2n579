@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a recursive PHP function designed to process arrays. The function unintentionally modifies array keys when encountering strings containing commas within nested arrays.  The `bug.php` file shows the problematic code, and `bugSolution.php` provides a corrected version.
